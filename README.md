@@ -8,4 +8,4 @@ Finally, the epochs were averaged to extract the time-locked ERPs of each partic
 To investigate specific components of interest, mean amplitudes of the N1 and P3 components were measured at the frontal and parietal/occipital regions, respectively. 
 The N1 component was measured at the FP1, FPZ, FP2, F3, FZ, and F4 electrode sites in the 80–120 ms time window, 
 whereas the P3 component was measured at the PO3, POZ, PO4, O1, OZ, and O2 electrode sites in the 200–400 ms time window. 
-In addition, the N170 component was measured at the P8 electrode site in the 140–180 ms time window, as previously reported by Caharel et al. (2013).
+In addition, the N170 component was measured at the P8 electrode site in the 140–180 ms time window.
